@@ -318,4 +318,4 @@ cv2.imwrite(output_file, new_image)
 if DEBUG:
     cv2.imwrite('edges.png', edges)
     cv2.imwrite('processed.png', processed)
-    cv2.imwrite('rejected.png', rejected)
+    cv2.imwrite('rejected.png', rejected) # There are a lot of syntax errors in this so my code doesn't work. How do I fix this?
